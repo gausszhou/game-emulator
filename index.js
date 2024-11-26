@@ -149,7 +149,7 @@ function onLoad() {
   };
   box.ondragover = () => box.setAttribute("drag", true);
   box.ondragleave = () => box.removeAttribute("drag");
-  fetch('/roms/info.json').then(res => res.json()).then(res => {
+  fetch('./roms/info.json').then(res => res.json()).then(res => {
     res.forEach(item => {
        const div = document.createElement('div');
        div.innerHTML = `<span>${item.name}</span>`;
