@@ -1,4 +1,4 @@
-# game-emulator
+# Game Emulator
 
 一个在线游戏机模拟器，只开放了 GBA 游戏机的模拟，默认提供 6 款游戏游玩。
 
