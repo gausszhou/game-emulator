@@ -32,10 +32,12 @@ body,
 #list {
   width: 30rem;
   max-width: 100%;
+  max-height: 50vh;
   display: flex;
   align-items: center;
   flex-wrap: wrap;
   justify-content: center;
+  overflow-y: auto;
 }
 
 .game {

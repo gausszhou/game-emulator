@@ -3,8 +3,9 @@
 data/minify/package-lock.json
 package-lock.json
 yarn.lock
-roms/*.gba
-roms/*.json
+roms/**/*.gba
+roms/**/*.zip
+roms/**/*.json
 data/emulator.min.js
 data/emulator.min.css
 data/cores
