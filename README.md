@@ -6,7 +6,7 @@
 
 ## ScreenShot
 
-![1.webp](https://file.gausszhou.top/api/public/dl/QRsWFb27/github/game-emulator/1.webp?inline=true)
+![1.webp](https://www.gausszhou.top/static/data/i/github/game-emulator/1.webp)
 
 ## Thanks
 
